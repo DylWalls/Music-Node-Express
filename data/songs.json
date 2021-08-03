@@ -190,5 +190,13 @@
     "artist": "The Postal Service",
     "genre": "Alternative Indie",
     "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 25,
+    "title": "Dark Cloud",
+    "album": "The Drop That Contained the Sea",
+    "artist": "Christopher Tin",
+    "genre": "Epic Vocal",
+    "releaseDate": "11/01/2014"
   }
 ]
